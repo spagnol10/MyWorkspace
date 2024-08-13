@@ -50,6 +50,7 @@ export class JoiValidationPipe implements PipeTransform<any> {
     return value;
   }
 }
+```
 
 ## Explanation
 
